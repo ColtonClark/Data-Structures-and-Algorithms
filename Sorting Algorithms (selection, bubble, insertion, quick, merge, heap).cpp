@@ -1,7 +1,3 @@
-// Colton Clark
-// Student ID: 004352008
-// Clark326@cougars.csusm.edu
-
 #include <iostream>
 using namespace std;
 
